@@ -1,10 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966)]
+
 <h1 align="center">Hi 👋, I'm Simran Saini</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1simransaini&label=Profile%20views&color=0e75b6&style=flat" alt="1simransaini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1simransaini" alt="1simransaini" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ssimran07_" target="blank"><img src="https://img.shields.io/twitter/follow/ssimran07_?logo=twitter&style=for-the-badge" alt="ssimran07_" /></a> </p>
 
