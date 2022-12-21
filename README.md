@@ -3,14 +3,14 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1simransaini&label=Profile%20views&color=0e75b6&style=flat" alt="1simransaini" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/ssimran07_" target="blank"><img src="https://img.shields.io/twitter/follow/ssimran07_?logo=twitter&style=for-the-badge" alt="ssimran07_" /></a> </p>
+👩🏻‍💻 About Me :
+- 👩‍🎓 Hey! I'm Simran, a sophomore at Banasthali University, pursuing my major in Computer Science and Engineering. 
 
 - 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **ssimran0329@gmail.com**
+- 📫 Reach out to me at **ssimran0329@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
