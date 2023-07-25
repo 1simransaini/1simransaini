@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1simransaini&label=Profile%20views&color=0e75b6&style=flat" alt="1simransaini" /> </p>
 
 👩🏻‍💻 About Me :
-- 👩‍🎓 Hey! I'm Simran, a sophomore at Banasthali University, pursuing my major in Computer Science and Engineering. 
+- 👩‍🎓 Hey! I'm Simran, a 3rd year undergraduate at Banasthali University, pursuing my major in Computer Science and Engineering. 
 
 - 🔭 I’m currently working on **improving my skills**
 
